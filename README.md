@@ -15,3 +15,8 @@ https://stackoverflow.com/questions/11032015/how-to-find-time-complexity-of-an-a
 
 DB Questions
  http://javadecodedquestions.blogspot.com/2013/01/database-interview-questions-for-java.html
+
+
+
+Algorithms - abdul bari
+https://www.youtube.com/watch?v=FtN3BYH2Zes
